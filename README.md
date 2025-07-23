@@ -81,4 +81,5 @@ This chatbot is built as **Task 1** for the **CodSoft Artificial Intelligence In
 
 ## 💬 Sample Interaction
 
+<img width="855" height="400" alt="image" src="https://github.com/user-attachments/assets/791b329a-b99d-49c1-9a28-33483210ff74" />
 
